@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  head: [['link', { rel: 'icon', href: '/favicon-32x32.png' }]],
   title: "DK Trans Guide",
   cleanUrls: true,
   description: "En guide til at være trans i Danmark.",

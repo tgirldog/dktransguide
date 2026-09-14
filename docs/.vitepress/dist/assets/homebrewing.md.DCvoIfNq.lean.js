@@ -1,1 +1,0 @@
-import{G as e,W as t,n,rt as r}from"./chunks/framework.CHX_0itn.js";var i=JSON.parse(`{"title":"Homebrewing","description":"","frontmatter":{},"headers":[],"relativePath":"homebrewing.md","filePath":"homebrewing.md"}`),a={name:`homebrewing.md`};function o(n,i,a,o,s,c){return r(),t(`div`,null,[...i[0]||=[e("",8)]])}var s=n(a,[[`render`,o]]);export{i as __pageData,s as default};
