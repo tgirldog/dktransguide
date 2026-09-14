@@ -1,6 +1,7 @@
 # Behandlings Muligheder
 
 Som transpersoner i Danmark har vi ikke lige så mange muligheder som i nogle andre lande, men vi har stadig forskellige muligheder for at få hormonbehandling. De forskellige muligheder varierer i pris, tilgængelighed, og brugervenlighed. Her vil vi gå igennem dem og diskutere deres pros and cons.
+
 ## CKI
 
 Dette er den mest kendte mulighed og nok også en, du allerede har prøvet.
@@ -16,6 +17,7 @@ CKI Odense er generelt ikke lige så dårlig som København, men den er ekstremt
 Uanset hvilken du vælger, vil der være problemer hos CKI. CKI kan være en af de billigste måder at få hormonbehandling på, men det er også den mest langsomme og besværlige. Mange oplever lange ventelister, diskrimination og ubehagelige samtaler med de ansatte. På grund af disse ting vil jeg ikke anbefale CKI til de fleste. Hvis du har autisme eller psykiske lidelser som angst, OCD, depression, PTSD osv., er der stor chance for, at de vil afvise dig. Det oplever mange i hvert fald, og det er også det, jeg selv har oplevet.
 
 Hvis du gerne vil i behandling ved CKI, kan det være en god idé at starte et forløb dér, mens du samtidig bruger en af de andre muligheder, indtil du bliver godkendt til hormonbehandling hos dem.
+
 ## Private klinikker
 
 Private klinikker kan være en af de dyreste muligheder du har, men det er også en af de bedste du har. Private klinikker giver dig ofte hurtig adgang til behandling, forskellige former af hormoner (gel, spray, piller, etc.) og giver dig EU-gyldige recepter så du får hormonerne direkte fra et dansk apotek. Der er forskellige private klinikker som kan udskrive EU-gyldige recepter. Herunder er der en liste over de mest velkendte private klinikker:
@@ -24,6 +26,7 @@ Private klinikker kan være en af de dyreste muligheder du har, men det er også
 - [Anne Health](https://anne.health/) - Anne Health er en ny privat klinik der er startet i England, men har indtil videre et positivt ry.
 - [Hormony Gender](https://www.hormonygender.dk/) - Hormony Gender er den eneste danske privat klinik der tilbyder hormonbehandling til transpersoner og er også relativt ny. Hormony Gender er ikke anbefalet på grund af deres lange og meget dyre afklarende forløb.
 - [GenderGP](https://www.gendergp.com/) - GenderGP er ikke anbefalet. Det plejede at være en af de mest populære klinikker men det er det absolut ikke længere. De har forfærdelig service, er næsten umulige at komme i kontakt med og giver dårlig, nogle gange helt forkert behandling. Jeg ville holde mig langt væk fra GenderGP.
+  
 ## DIY
 
 Hvis du ikke har råd eller lyst til at bruge en privat klinik, er din sidste mulighed DIY. Men der er mange forskellige typer af DIY. Den mest almindelige og billigeste er injektioner. Injektioner er den bedste mulighed for de fleste. De kan tages hver 7.-10. dag, hvilket betyder at en enkelt flaske kan vare i lang tid. De er også bedre til at hæmme virkningen af testosteron så man kan lave monoterapi, hvilket vil sige, at man ikke behøver at tage antiandrogener. På grund af dette er injektioner en billig og effektiv løsning.
