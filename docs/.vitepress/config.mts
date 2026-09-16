@@ -21,9 +21,10 @@ export default defineConfig({
 
     sidebar: [
             {
-        text: 'Start',
+        text: 'Info',
         items: [
           { text: 'Manifest', link: '/manifest' },
+          { text: 'Om Guiden', link: '/omguiden' },
         ]
       },
       {
