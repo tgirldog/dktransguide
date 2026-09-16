@@ -35,4 +35,4 @@ For mange kan injektioner dog være skræmmende eller ubehagelige. Heldigvis er 
 
 Det største problem ved DIY er, at det kan være virkelig svært at finde en sælger som ikke er solgt ud. Dette er desværre bare fordi der er mange som har brug for hormoner og ikke så mange der laver dem, og dem som laver det er ikke store firmaer men bare nogle normale personer som laver det i deres hjem. Derfor er det vigtigt altid at holde øje med hvem der har noget på lager. Du kan eventuelt bruge sider som [valerie.vg](https://valerie.vg/) eller [diyhrt.coffee](https://diyhrt.coffee/) til at holde styr på hvem der sælger det du har brug for. 
 
-Hvis tilgængelighed bliver et så stort problem at vi slet ikke kan købe hormoner nogen steder, er der stadig en mulighed tilbage, homebrewing. Altså at lave dem selv. Det vil jeg snakke mere om i homebrewing guiden. 
+Hvis tilgængelighed bliver et så stort problem at vi slet ikke kan købe hormoner nogen steder, er der stadig en mulighed tilbage, homebrewing. Altså at lave dem selv. Det vil jeg snakke mere om i [homebrewing guiden](/homebrewing). 

@@ -1,5 +1,7 @@
 # DIY Guide
 
+DIY guiden vil dække de forskellige ressourcer og information som du vil få brug for hvis du vil bruge DIY hormonbehandling, men den dækker dog også nogle ting som er gode at vide hvis du er i behandling ved en privat klinik.
+
 ## Ressourcer
 
 Der findes mange forskellige hjemmesider og forumer med information om DIY hormonbehandling. En af de største ressourcer er [r/TransDIY](https://www.reddit.com/r/TransDIY/). Deres [wiki](https://www.reddit.com/r/TransDIY/wiki/index/) og [FAQ](https://www.reddit.com/r/TransDIY/wiki/faq/) har virkelig meget fantastisk information om DIY hormonbehandling og er et godt sted at starte. Hvis reddit siger du skal bekræfte din identitet for at se det, vil jeg anbefale at bruge en VPN eller bruge en reddit frontend som [Redlib](https://github.com/redlib-org/redlib-instances/blob/main/instances.md).
