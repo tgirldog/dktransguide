@@ -1,0 +1,3 @@
+# Manifest
+
+It’s getting harder and harder to be a transgender person in Denmark. We’re stuck on waiting lists for years and are rejected by CKI without any reasonable justification. They’re withholding treatment from us, and there’s no sign that things will get better anytime soon. That’s why it’s crucial that we find our own ways to get the gender-affirming treatment we need. I’ve created this guide because transgender people deserve autonomy and access to fair and safe treatment, regardless of what CKI thinks.

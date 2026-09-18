@@ -27,25 +27,25 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Guides', link: '/behandlingsmuligheder' }
+      { text: 'Home', link: '/en/' },
+      { text: 'Guides', link: '/en/behandlingsmuligheder' }
     ],
 
     sidebar: [
             {
         text: 'Info',
         items: [
-          { text: 'Manifest', link: '/manifest' },
-          { text: 'Om Guiden', link: '/omguiden' },
+          { text: 'Manifesto', link: '/en/manifest' },
+          { text: 'About the guide', link: '/en/omguiden' },
         ]
       },
       {
         text: 'Guides',
         collapsed: false,
         items: [
-          { text: 'Behandlings Muligheder', link: '/behandlingsmuligheder' },
-          { text: 'DIY Guide', link: '/diyguide' },
-          { text: 'Homebrewing', link: '/homebrewing' },
+          { text: 'Treatment Options', link: '/en/behandlingsmuligheder' },
+          { text: 'DIY Guide', link: '/en/diyguide' },
+          { text: 'Homebrewing', link: '/en/homebrewing' },
         ]
       },
 
