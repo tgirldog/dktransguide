@@ -1,0 +1,1 @@
+import{_t as e,it as t,n,rt as r}from"./chunks/framework.GGfqtSwG.js";var i=JSON.parse(`{"title":"DIY Kilder","description":"","frontmatter":{},"headers":[],"relativePath":"diykilder.md","filePath":"diykilder.md"}`),a={name:`diykilder.md`};function o(n,i,a,o,s,c){return e(),r(`div`,null,[...i[0]||=[t("",4)]])}var s=n(a,[[`render`,o]]);export{i as __pageData,s as default};

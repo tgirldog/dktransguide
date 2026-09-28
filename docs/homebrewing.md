@@ -1,6 +1,5 @@
 # Homebrewing
 
-
 "Homebrewing", eller at lave sin egen HRT derhjemme, kan virke som en skræmmende ting, men det kan faktisk være en del lettere end de fleste skulle tro, og det er en yderst vigtig ting for vores uafhængighed og selvstændighed som transpersoner. 
 
 Homebrewing kan være en fantastisk løsning hvis det er for dyrt at købe det færdiglavet, eller hvis det er svært at finde injektioner. Man kan lave sine egne injektioner eller sin egen gel/spray. I denne guide vil vi fokusere på at lave transdermale, løsninger da de er meget, meget nemmere, og sikrere at lave selv. 

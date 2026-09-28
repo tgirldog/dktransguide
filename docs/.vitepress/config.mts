@@ -33,10 +33,10 @@ export default defineConfig({
 
     sidebar: [
             {
-        text: 'Info',
+        text: '',
         items: [
           { text: 'Manifest', link: '/manifest' },
-          { text: 'Om Guiden', link: '/omguiden' },
+          { text: 'Om guiden', link: '/omguiden' },
         ]
       },
       {
@@ -44,8 +44,11 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: 'Behandlings Muligheder', link: '/behandlingsmuligheder' },
-          { text: 'DIY Guide', link: '/diyguide' },
+          { text: 'Former af HRT', link: '/formerafhrt' },
+          { text: 'DIY Kilder', link: '/diykilder' },
           { text: 'Homebrewing', link: '/homebrewing' },
+          { text: 'Blodprøver', link: '/blodprøver' },
+          { text: 'Resoucer', link: '/resourcer' },
         ]
       },
 

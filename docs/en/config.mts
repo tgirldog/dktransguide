@@ -44,10 +44,14 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: 'Treatment Options', link: '/en/behandlingsmuligheder' },
-          { text: 'DIY Guide', link: '/en/diyguide' },
+          { text: 'Forms of HRT', link: '/en/formerafhrt' },
+          { text: 'DIY Sources', link: '/en/diykilder' },
           { text: 'Homebrewing', link: '/en/homebrewing' },
+          { text: 'Blood tests', link: '/en/blodprøver' },
+          { text: 'Resources', link: '/en/resourcer' },
         ]
       },
+
 
     ],
 
