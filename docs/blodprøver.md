@@ -27,6 +27,13 @@ Hvis du er i gang med maskuliniserende hormonbehandling og tager dine opfølgend
 - Lipider (totalkolesterol, triglycerider, HDL, LDL)
 - Testosteron og østradiol (T, E2)
 
+Der er meget debat om, hvad de optimale hormonniveauer er for den bedste feminiserende/maskuliniserende effekt. Det er dog ofte noget, der varierer fra person til person. Generelt kan du bruge følgende retningslinjer:
+
+- Transfem: total testosteron < 1,7 nmol/L (50 ng/dL), total østradiol 80-250 pg/mL
+- Transmaskulin: total testosteron 15-50 nmol/L (~430-1400 ng/dL), hæmatokrit ≤ 0,5 L/L (50 %)
+
+Resultaterne på dine blodprøver kommer i forskellige enheder. Østradiol-, testosteron- og progesteronresultater kommer som regel i enheden nanomol pr. liter (nmol/L). Hvis du har researchet online, har du nok set mange, der bruger enheder som pg/mL, ng/dL, pmol/L osv. Hvis du vil sammenligne dine resultater med værdier i de enheder, kan du bruge Transfem Science’s [Hormone Concentration Unit Conversion](https://transfemscience.org/misc/hormone-conc-unit-conv/)-værktøj til at konvertere enhederne fra dine resultater.
+
 Hvis du er på [cyproteronacetat](https://min.medicin.dk/Medicin/Indholdsstoffer/318) (ofte Androcur), er det meget vigtigt, at du især holder øje med dine prolaktinniveauer. Cyproteronacetat har en lille chance for at give [prolaktinom](https://en.wikipedia.org/wiki/Prolactinoma), hvilket er en godartet svulst i hypofysen. Det er ikke en almindelig bivirkning af cyproteronacetat, men hvis dine prolaktinniveauer er meget høje, er det vigtigt at tale med din læge. 
 
 Når du skal have taget blodprøver, kan du måske være forvirret over, hvor du skal have taget dem, da din egen læge højst sandsynligt ikke vil tage dem. Den bedste løsning i min oplevelse er at få taget blodprøverne ved [Dansk Sundhedsteam](https://ds-vt.dk/). Man kan bestille blodprøver ved dem, hvorefter de så lægger dem ind på systemet så du kan bestille tid til blodprøvetagning ved et hospital i din region. Det er en super mulighed fordi du ikke behøver at tage ind på deres klinik men kan i stedet få taget dem på et hospital i nærheden af dig. Efter du har fået taget dem, bliver blodprøverne sendt til deres laboratorium. Når de har gjort deres arbejde, sender de dig resultaterne digitalt. 
