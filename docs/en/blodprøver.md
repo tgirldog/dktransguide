@@ -28,7 +28,7 @@ If you are undergoing masculinizing hormone therapy and having follow-up blood t
 There is considerable debate regarding the optimal hormone levels for achieving the best feminizing or masculinizing effects. However, this often varies from person to person. In general, you can follow these guidelines:
 
 - Transfeminine: total testosterone < 1.7 nmol/L (50 ng/dL), total estradiol 80–250 pg/mL
-- Transmasculine: total testosterone 15–50 nmol/L (~430–1400 ng/dL), haematocrit ≤ 0.5 L/L (50%)
+- Transmasculine: total testosterone 15–50 nmol/L (~430–1400 ng/dL), hematocrit ≤ 0.5 L/L (50%)
 
 Blood test results are reported in various units. Estradiol, testosterone, and progesterone results are usually given in nanomoles per liter (nmol/L). If you have done research online, you have likely seen many people using units such as pg/mL, ng/dL, pmol/L, etc. If you wish to compare your results with values ​​in those units, you can use Transfem Science’s [Hormone Concentration Unit Conversion](https://transfemscience.org/misc/hormone-conc-unit-conv/) tool to convert the units from your results.
 
